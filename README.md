@@ -161,3 +161,117 @@ For customized formulation requests, on-site debugging appointments, or commerci
 
 ## Disclaimer
 > ⚠️ **Notice**: All technical data, test results, and recommendations provided in this repository are based on Humanchem’s controlled laboratory testing environments. Real-world performance may vary significantly depending on customer substrate properties, actual coating weight, drying efficiency, and processing machinery. Customers are strongly required to conduct independent trial-runs and property verifications before commercial scale production.
+
+# Barrier Coatings FAQs
+15 Most Frequently Asked Questions about Barrier Coatings for Molded Pulp
+
+> This document is prepared for overseas customers, distributors and technical partners.
+
+---
+
+## Basic Concept
+
+<details>
+<summary><strong>Q1: What is a barrier coating, and how is it different from ordinary molded pulp products?</strong></summary>
+Ordinary molded pulp is made of plant fibers and is inherently hydrophilic and oleophilic. A barrier coating is a functional material applied onto the fiber surface or dosed into pulp to endow the product with water resistance, oil resistance and heat resistance. It is a key process for replacing plastic tableware with molded pulp.
+</details>
+
+<details>
+<summary><strong>Q2: What is the relationship between barrier coatings and fluorinated (PFAS) coatings?</strong></summary>
+Fluorinated chemicals (PFAS) were widely used in early barrier coatings, as excellent oil resistance can be achieved with very low coating weight. However, global regulations are tightening, and PFAS-free formulations have become a mandatory industry trend.
+</details>
+
+<details>
+<summary><strong>Q3: What does "PFAS-free" mean? How can it be verified?</strong></summary>
+It does not mean absolutely zero at the chemical level; it means test results are below regulatory thresholds. Verification methods: supplier declaration + Total Organic Fluorine (TOF) test report or targeted PFAS analysis report.
+</details>
+
+---
+
+## Regulatory & Certification
+
+<details>
+<summary><strong>Q4: What are the PFAS limits under EU PPWR?</strong></summary>
+Starting from 12 August 2026, EU PPWR Regulation (EU 2025/40), Article 5(5): single PFAS ≤25 ppb; total PFAS ≤250 ppb; total polymeric PFAS ≤50 ppm.
+</details>
+
+<details>
+<summary><strong>Q5: What food-contact certifications are required for barrier coatings?</strong></summary>
+US: FDA 21 CFR 176.170 / 176.180; Europe: LFGB (Germany), EC 1935/2004, French AP; compostability certifications: BPI (US), OK Compost / EN 13432 (Europe).
+</details>
+
+---
+
+## Technical Routes
+
+<details>
+<summary><strong>Q6: What are the technical routes for barrier coatings?</strong></summary>
+Three main routes:
+1. Internal pulp addition (add additives directly to pulp slurry)
+2. Surface coating (spraying, dip coating or blade coating after forming)
+3. Lamination / film composite (bond with PLA or PE film)
+</details>
+
+<details>
+<summary><strong>Q7: Which is better, internal pulp addition or surface coating?</strong></summary>
+Internal pulp addition: simple process, lower cost, integral water resistance, but the upper limit of oil resistance is limited.<br>
+Surface coating: dense protective layer, high oil resistance grade, but adds extra processes and demands high adhesion and uniformity.<br>
+The two are often used together in mass production.
+</details>
+
+<details>
+<summary><strong>Q8: Which is more eco-friendly, barrier coating or PLA lamination?</strong></summary>
+PLA lamination is compostable but introduces an extra film layer and complicates recycling. Surface coatings (especially bio-based PFAS-free grades) can be recycled together with pulp, yet their oil resistance stability is currently inferior to lamination. End customers need to balance both solutions.
+</details>
+
+---
+
+## Performance Parameters
+
+<details>
+<summary><strong>Q9: Can barrier coatings withstand high temperatures? (Hot water / hot oil)</strong></summary>
+Conventional PFAS-free formulations generally resist temperatures below 70°C. Latest bio-based dual-layer systems (chitosan + stearic acid) can withstand 95°C hot water / hot oil for 30 minutes without leakage, with a water contact angle up to 116°.
+</details>
+
+<details>
+<summary><strong>Q10: Can coatings achieve 100% oil leakage resistance?</strong></summary>
+Coating solutions work reliably for low-oil, low-moisture scenarios such as salads. Products with high oil content or hot soup are prone to leakage. Laminated films deliver more consistent oil-proof performance across different contents. This remains a core challenge for the industry.
+</details>
+
+<details>
+<summary><strong>Q11: What are Kit value and Cobb value?</strong></summary>
+- Kit value: oil resistance grade, ranging from 0 to 12 (grade 12 is the highest). Kit 11/12 means excellent oil resistance.<br>
+- Cobb value: water absorption in g/m²; lower value indicates better water resistance. For example, Cobb 5 g/m² is regarded as good performance.
+</details>
+
+<details>
+<summary><strong>Q12: What is the proper coating weight?</strong></summary>
+Reference from research: CNF coating at 3 g/m² reduces oil absorption by 72–78%; 5 g/m² can reach Kit 9–11. Silicone emulsion at around 5 g/m² achieves Cobb 2–3 g/m² and Kit 8–9.
+</details>
+
+---
+
+## Cost & Recyclability
+
+<details>
+<summary><strong>Q13: How much more expensive are PFAS-free coatings compared with fluorinated versions?</strong></summary>
+Industry feedback: PFAS-free formulations usually increase material cost by 15%–20%. Tableware manufacturers also bear process debugging costs and risks.
+</details>
+
+<details>
+<summary><strong>Q14: Do barrier coatings affect the recyclability of molded pulp?</strong></summary>
+It depends on coating chemistry. Traditional fluorinated coatings hinder recycling. Bio-based coatings (e.g. chitosan-g-PDMS) have been proven in studies for full pulp recyclability. Sizing agents such as AKD also retain recyclability.
+</details>
+
+<details>
+<summary><strong>Q15: What food can coated bowls hold?</strong></summary>
+- Suitable scenarios: low-oil, low-moisture food such as salads and fruits.<br>
+- High-risk scenarios: high-oil food (fried chicken, thick sauces) and hot soup.<br>
+Customers expect one single bowl compatible with all food types, which creates the core trade-off between coating and lamination.
+</details>
+
+---
+
+## Source Note
+These FAQs are compiled from Humanchem product pages, industry reports, academic papers from RSC & BioResources, Wanfang dissertations, EU PPWR regulatory interpretations, and Alibaba B2B buyer guides.
+Some performance data are from laboratory research; actual mass production results depend on specific formulations.
